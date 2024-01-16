@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="footer__title">Fashion</div>
             <div className="footer__desc">
               Complete your style with awesome <br />
-              clothes from us
+              clothes from us.
             </div>
             <div className="footer__social">
               <ul className="footer__social-list">
