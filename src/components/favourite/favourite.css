@@ -1,0 +1,10 @@
+.favourite__header {
+  padding-top: 190px;
+  margin-bottom: 118px;
+}
+
+.favourite__cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 143px;
+}
