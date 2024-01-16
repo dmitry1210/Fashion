@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fashion/static/css/main.9e19df30.css",
-    "main.js": "/Fashion/static/js/main.0858757e.js",
+    "main.js": "/Fashion/static/js/main.7db1258d.js",
     "static/media/header-img.jpg": "/Fashion/static/media/header-img.3266b145a803ea6064bc.jpg",
     "static/media/promo-img.jpg": "/Fashion/static/media/promo-img.527fa310359de2170668.jpg",
     "static/media/promo-01.jpg": "/Fashion/static/media/promo-01.4fc3ca39e368bb92d886.jpg",
@@ -20,10 +20,10 @@
     "static/media/fb.svg": "/Fashion/static/media/fb.4faf19d0bfe6a510d553b2e4528e5bf8.svg",
     "static/media/decor-yellow.svg": "/Fashion/static/media/decor-yellow.a14a51327547871fd595.svg",
     "main.9e19df30.css.map": "/Fashion/static/css/main.9e19df30.css.map",
-    "main.0858757e.js.map": "/Fashion/static/js/main.0858757e.js.map"
+    "main.7db1258d.js.map": "/Fashion/static/js/main.7db1258d.js.map"
   },
   "entrypoints": [
     "static/css/main.9e19df30.css",
-    "static/js/main.0858757e.js"
+    "static/js/main.7db1258d.js"
   ]
 }
